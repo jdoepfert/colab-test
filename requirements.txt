@@ -2,3 +2,4 @@ graphviz
 pandas
 scikit-learn
 scipy
+matplotlib
